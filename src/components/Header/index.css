@@ -1,0 +1,39 @@
+/* Write your CSS code here */
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.image1 {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.h1 {
+  font-family: roboto;
+  font-size: 24px;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style: none;
+}
+
+.link {
+  margin-right: 10px;
+  text-decoration: none;
+  font-family: roboto;
+  font-weight: 600;
+  font-size: 18px;
+  color: #12022f;
+}

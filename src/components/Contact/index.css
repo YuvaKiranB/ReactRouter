@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+
+.contactContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.image4 {
+  height: 240px;
+}
+
+.h4 {
+  color: #551e53;
+  font-family: roboto;
+  font-size: 35px;
+}

@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.image2 {
+  height: 240px;
+}
+
+.h2 {
+  color: #551e53;
+  font-family: roboto;
+  font-size: 35px;
+}

@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.aboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.image3 {
+  height: 240px;
+}
+
+.h3 {
+  color: #551e53;
+  font-family: roboto;
+  font-size: 35px;
+}
+
+.p1 {
+  color: #555555;
+  font-family: roboto;
+  font-size: 16px;
+}
